@@ -1,0 +1,3 @@
+izhan izhan manager
+naqi naqi manager
+user user client
